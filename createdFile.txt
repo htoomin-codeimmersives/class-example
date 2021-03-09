@@ -1,3 +1,4 @@
+Michael is cool i guess
 Here is some text on the main branch
 Htoo is really cool!
 Merge conflicts are the worst part about coding
